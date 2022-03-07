@@ -10,7 +10,7 @@ $(document).ready(function() {
 		}
 	});
 
-
+	// changement nataoko
 
 	// Fancybox
 	$('.work-box').fancybox();
