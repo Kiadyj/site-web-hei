@@ -12,6 +12,8 @@ $(document).ready(function() {
 
 	// changement nataoko
 
+	// changement faharoa
+
 	// Fancybox
 	$('.work-box').fancybox();
 
